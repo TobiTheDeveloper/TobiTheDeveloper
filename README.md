@@ -17,9 +17,9 @@ Feel free to reach out if you want to discuss tech or explore the fascinating wo
 You can reach me via email at [y.t.oyediran@gmail.com](mailto:y.t.oyediran@gmail.com).
 
 ## 🌐 My Socials
-[![Image 1](css/image-1.png)](www.linkedin.com/in/tobi-oyediran-182308181/page1)
-[![Image 3](css/image-2.png)](https://stackoverflow.com/users/22461785/tobithedeveloper/page3)
-[![Image 5](css/image-4.png)](https://www.hackerrank.com/TobiTheDevloper/page5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tobi-oyediran-182308181){:target="_blank"}
+[![StackOver Flow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22461785/tobithedeveloper){:target="_blank"}
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/TobiTheDevloper){:target="_blank"}
 
 ## 💻 My Tech Weapon: 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
