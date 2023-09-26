@@ -2,7 +2,7 @@
 👋 Hi there, I'm Tobi Oyediran, but professionally I go by "TobiTheDeveloper". I started my coding journey with the goal of building cool and interesting tools. I've always known that I wanted to study Computer Science, and now, three years later, I'm pursuing the program of my dreams. I enjoy solving problems, often in the comfort of my own home.
 
 ## 🌐 My Current Projects
-I'm currently working on a web app project that aims to connect people together. The purpose of the project is to allow users to video call and also call each other without internet connection or having to buy a sim card.
+I'm currently working on a web app project that aims to help individuals navigate their career paths in the tech industry. Whether you aspire to become a front-end developer, back-end developer, AI engineer, or any other tech role, CareerPathways provides step-by-step guidance to help you achieve your goals.
 
 ## 🤓 Learning Journey
 I'm passionate about Machine Learning with Python, and I'm actively expanding my knowledge in this field.
