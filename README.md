@@ -1,5 +1,11 @@
 # 👨🏾‍💻 About Me
-👋 Hi there, I'm Tobi Oyediran, but professionally I go by "TobiTheDeveloper". I started my coding journey with the goal of building cool and interesting tools. I've always known that I wanted to study Computer Science, and now, three years later, I'm pursuing the program of my dreams. I enjoy solving problems, often in the comfort of my own home.
+I’m an early‑career full‑stack developer based in Toronto, passionate about using technology to solve real‑world problems and help others succeed. I currently build projects across web apps, data‑driven tools, and AI‑assisted experiences, with a particular interest in FinTech and emerging technologies.
+
+Over the past few years, I’ve turned ideas into working software from web apps that improve day‑to‑day productivity to tools that guide people through tech career paths. I enjoy starting from an ambiguous problem, clarifying requirements, designing a solution, and then delivering and iterating based on feedback.
+
+Technically, I work primarily with JavaScript/TypeScript, React, Node.js, and Python, along with SQL and modern web tooling. I’m actively deepening my knowledge of cloud platforms and machine learning so I can design and deliver more robust, scalable systems.
+
+I thrive in small, collaborative teams where we can learn from each other, communicate openly, and continuously improve. My goal is to grow into a technical consultant who not only writes quality software, but also understands the business context, explains complex ideas clearly, and mentors others along the way.
 
 ## 🌐 My Current Projects
 Currently developing Conety, a platform designed to connect content creators nearby for seamless collaboration and to help skilled creators unlock new income streams.
